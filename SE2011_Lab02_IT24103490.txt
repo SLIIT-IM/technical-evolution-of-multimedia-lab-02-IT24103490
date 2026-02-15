@@ -1,0 +1,11 @@
+7. Reflection & Self-Check
+Answer briefly:
+
+1. What is a variable?
+	Variable store a value so it can be used or changed later.
+
+2. How does an if statement work?
+	If statement check a condition,if it's true one block of the code runs. If it's false then else block of the code runs.
+
+3. Why are loops useful in creative coding?
+	Loops help repeat shapes automatically,so it's create patterns.
